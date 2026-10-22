@@ -1,4 +1,5 @@
 import { NextResponse } from "next/server";
+import leetcodeCache from "@/data/leetcode-cache.json";
 
 import members from "@/data/members.json";
 import type { Member } from "@/types/member";
@@ -52,11 +53,10 @@ async function getWeeklyGithubCount(
 }
 
 const leetcodeCalendarQuery = `
-  query userProfile($username: String!) {
-    matchedUser(username: $username) {
-      userCalendar {
-        submissionCalendar
-      }
+  query getRecentAc($username: String!) {
+    recentAcSubmissionList(username: $username, limit: 1000) {
+      titleSlug
+      timestamp
     }
   }
 `;
@@ -68,7 +68,11 @@ async function getWeeklyLeetCodeCount(
   try {
     const res = await fetch("https://leetcode.com/graphql", {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      headers: {
+        "Content-Type": "application/json",
+        "Referer": "https://leetcode.com",
+        "User-Agent": "Mozilla/5.0",
+      },
       body: JSON.stringify({
         query: leetcodeCalendarQuery,
         variables: { username },
@@ -79,22 +83,22 @@ async function getWeeklyLeetCodeCount(
     if (!res.ok) return 0;
 
     const result = await res.json();
-    const raw = result?.data?.matchedUser?.userCalendar?.submissionCalendar;
+    const acList: { titleSlug: string; timestamp: string }[] =
+      result?.data?.recentAcSubmissionList ?? [];
 
-    if (!raw) return 0;
+    const solvedProblems = new Set<string>();
 
-    const calendar: Record<string, number> = JSON.parse(raw);
-    let total = 0;
-
-    for (const [timestamp, count] of Object.entries(calendar)) {
-      const date = new Date(Number(timestamp) * 1000)
+    for (const item of acList) {
+      const date = new Date(Number(item.timestamp) * 1000)
         .toISOString()
         .split("T")[0];
 
-      if (week.has(date)) total += Number(count);
+      if (week.has(date)) {
+        solvedProblems.add(item.titleSlug);
+      }
     }
 
-    return total;
+    return solvedProblems.size;
   } catch {
     return 0;
   }
@@ -106,20 +110,13 @@ export async function GET() {
 
   const results = await Promise.all(
     allMembers.map(async (member) => {
-      const [githubCount, leetcodeCount] = await Promise.all([
-        getWeeklyGithubCount(member.github, week),
-        member.leetcode
-          ? getWeeklyLeetCodeCount(member.leetcode, week)
-          : Promise.resolve(0),
-      ]);
+      const githubCount = await getWeeklyGithubCount(member.github, week);
 
       return {
         name: member.name,
         github: member.github,
         portfolio: member.portfolio,
         githubCount,
-        leetcodeCount,
-        hasLeetcode: Boolean(member.leetcode),
       };
     })
   );
@@ -134,19 +131,9 @@ export async function GET() {
     }))
     .sort((a, b) => b.count - a.count);
 
-  const leetcodeLeaderboard: LeaderboardEntry[] = results
-    .filter((r) => r.hasLeetcode && r.leetcodeCount > 0)
-    .map((r) => ({
-      name: r.name,
-      github: r.github,
-      portfolio: r.portfolio,
-      count: r.leetcodeCount,
-    }))
-    .sort((a, b) => b.count - a.count);
-
   return NextResponse.json({
     github: githubLeaderboard,
-    leetcode: leetcodeLeaderboard,
+    leetcode: leetcodeCache.leaderboard,
     updatedAt: new Date().toISOString(),
   });
 }
