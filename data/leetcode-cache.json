@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T16:36:40.835Z",
+  "updatedAt": "2026-10-22T20:14:08.475Z",
   "leaderboard": [
     {
       "name": "ABHIJEET MISHRA",
@@ -26,15 +26,15 @@
       "count": 10
     },
     {
-      "name": "TaHooR",
-      "github": "TaH00R",
-      "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 8
-    },
-    {
       "name": "Arihant Pandey",
       "github": "arihantpandey3724-code",
       "portfolio": "",
+      "count": 9
+    },
+    {
+      "name": "TaHooR",
+      "github": "TaH00R",
+      "portfolio": "https://tah00r.github.io/portfolio/",
       "count": 8
     },
     {
