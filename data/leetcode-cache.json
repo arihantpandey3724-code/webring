@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T01:45:23.026Z",
+  "updatedAt": "2026-10-23T06:33:44.647Z",
   "leaderboard": [
     {
       "name": "ABHIJEET MISHRA",
@@ -35,7 +35,7 @@
       "name": "TaHooR",
       "github": "TaH00R",
       "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 7
+      "count": 8
     },
     {
       "name": "Sayan Nandi",
@@ -65,6 +65,12 @@
       "name": "Harsh Brijesh Dubey",
       "github": "Hxrshthetic",
       "portfolio": "https://www.github.com/Hxrshthetic",
+      "count": 1
+    },
+    {
+      "name": "Tanishq Mehta",
+      "github": "Tanishq-Mehta-1",
+      "portfolio": "",
       "count": 1
     },
     {
