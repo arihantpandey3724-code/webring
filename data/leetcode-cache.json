@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-10-22T23:26:23.734Z",
+  "updatedAt": "2026-10-23T01:45:23.026Z",
   "leaderboard": [
     {
       "name": "ABHIJEET MISHRA",
       "github": "amabhijeet",
       "portfolio": "",
-      "count": 20
+      "count": 15
     },
     {
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 12
+      "count": 11
     },
     {
       "name": "Ritesh Ritu Raj",
       "github": "riteshrituraj928-pixel",
       "portfolio": "",
-      "count": 12
+      "count": 10
+    },
+    {
+      "name": "Arihant Pandey",
+      "github": "arihantpandey3724-code",
+      "portfolio": "",
+      "count": 10
     },
     {
       "name": "Suyash Jain",
@@ -26,22 +32,16 @@
       "count": 10
     },
     {
-      "name": "Arihant Pandey",
-      "github": "arihantpandey3724-code",
-      "portfolio": "",
-      "count": 9
-    },
-    {
       "name": "TaHooR",
       "github": "TaH00R",
       "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 8
+      "count": 7
     },
     {
       "name": "Sayan Nandi",
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 5
+      "count": 6
     },
     {
       "name": "Manoj Gurjar",
