@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-10-24T11:27:48.438Z",
+  "updatedAt": "2026-10-24T14:46:35.065Z",
   "leaderboard": [
+    {
+      "name": "Ritesh Ritu Raj",
+      "github": "riteshrituraj928-pixel",
+      "portfolio": "",
+      "count": 14
+    },
     {
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
@@ -10,12 +16,6 @@
     {
       "name": "ABHIJEET MISHRA",
       "github": "amabhijeet",
-      "portfolio": "",
-      "count": 12
-    },
-    {
-      "name": "Ritesh Ritu Raj",
-      "github": "riteshrituraj928-pixel",
       "portfolio": "",
       "count": 12
     },
