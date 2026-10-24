@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-24T06:28:05.919Z",
+  "updatedAt": "2026-10-24T11:27:48.438Z",
   "leaderboard": [
     {
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 12
+      "count": 13
     },
     {
       "name": "ABHIJEET MISHRA",
@@ -26,12 +26,6 @@
       "count": 11
     },
     {
-      "name": "Arihant Pandey",
-      "github": "arihantpandey3724-code",
-      "portfolio": "",
-      "count": 10
-    },
-    {
       "name": "Saksham Gupta",
       "github": "AccidentalGenius08",
       "portfolio": "",
@@ -41,7 +35,7 @@
       "name": "TaHooR",
       "github": "TaH00R",
       "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 7
+      "count": 8
     },
     {
       "name": "Sayan Nandi",
