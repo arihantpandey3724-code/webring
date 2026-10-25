@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-25T09:27:07.879Z",
+  "updatedAt": "2026-10-25T13:51:56.325Z",
   "leaderboard": [
-    {
-      "name": "Ritesh Ritu Raj",
-      "github": "riteshrituraj928-pixel",
-      "portfolio": "",
-      "count": 13
-    },
     {
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 12
+      "count": 14
+    },
+    {
+      "name": "Ritesh Ritu Raj",
+      "github": "riteshrituraj928-pixel",
+      "portfolio": "",
+      "count": 14
     },
     {
       "name": "ABHIJEET MISHRA",
