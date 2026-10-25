@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T00:12:33.123Z",
+  "updatedAt": "2026-10-25T04:43:45.745Z",
   "leaderboard": [
     {
       "name": "Ritesh Ritu Raj",
@@ -62,6 +62,12 @@
       "count": 3
     },
     {
+      "name": "Arpit Kumar",
+      "github": "ArpitzzKumar",
+      "portfolio": "https://arpitzzkumar.github.io/AboutMyself/",
+      "count": 2
+    },
+    {
       "name": "Harsh Brijesh Dubey",
       "github": "Hxrshthetic",
       "portfolio": "https://www.github.com/Hxrshthetic",
@@ -77,12 +83,6 @@
       "name": "Lakshit Nawal",
       "github": "ln2008",
       "portfolio": "",
-      "count": 1
-    },
-    {
-      "name": "Arpit Kumar",
-      "github": "ArpitzzKumar",
-      "portfolio": "https://arpitzzkumar.github.io/AboutMyself/",
       "count": 1
     }
   ]
