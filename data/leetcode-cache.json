@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-10-26T04:58:40.878Z",
+  "updatedAt": "2026-10-26T10:53:53.774Z",
   "leaderboard": [
     {
       "name": "Ritesh Ritu Raj",
       "github": "riteshrituraj928-pixel",
       "portfolio": "",
-      "count": 12
+      "count": 13
     },
     {
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 10
+      "count": 11
+    },
+    {
+      "name": "ABHIJEET MISHRA",
+      "github": "amabhijeet",
+      "portfolio": "",
+      "count": 11
     },
     {
       "name": "Saksham Gupta",
       "github": "AccidentalGenius08",
       "portfolio": "",
       "count": 10
-    },
-    {
-      "name": "ABHIJEET MISHRA",
-      "github": "amabhijeet",
-      "portfolio": "",
-      "count": 9
     },
     {
       "name": "TaHooR",
