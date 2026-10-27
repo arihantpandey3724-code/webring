@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-10-26T21:37:58.648Z",
+  "updatedAt": "2026-10-27T00:49:00.331Z",
   "leaderboard": [
     {
       "name": "Ritesh Ritu Raj",
       "github": "riteshrituraj928-pixel",
       "portfolio": "",
-      "count": 13
+      "count": 12
     },
     {
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 11
+      "count": 10
     },
     {
       "name": "ABHIJEET MISHRA",
       "github": "amabhijeet",
       "portfolio": "",
-      "count": 11
+      "count": 10
     },
     {
       "name": "Saksham Gupta",
@@ -29,12 +29,6 @@
       "name": "TaHooR",
       "github": "TaH00R",
       "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 7
-    },
-    {
-      "name": "Suyash Jain",
-      "github": "suyashjain1404-stack",
-      "portfolio": "",
       "count": 6
     },
     {
@@ -47,7 +41,7 @@
       "name": "Sayan Nandi",
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 5
+      "count": 4
     },
     {
       "name": "Avi Jindal",
@@ -62,6 +56,12 @@
       "count": 3
     },
     {
+      "name": "Suyash Jain",
+      "github": "suyashjain1404-stack",
+      "portfolio": "",
+      "count": 3
+    },
+    {
       "name": "Arpit Kumar",
       "github": "ArpitzzKumar",
       "portfolio": "https://arpitzzkumar.github.io/AboutMyself/",
@@ -71,18 +71,6 @@
       "name": "Harsh Brijesh Dubey",
       "github": "Hxrshthetic",
       "portfolio": "https://www.github.com/Hxrshthetic",
-      "count": 1
-    },
-    {
-      "name": "Aryan Gupta",
-      "github": "AryanGupta833",
-      "portfolio": "",
-      "count": 1
-    },
-    {
-      "name": "Lakshit Nawal",
-      "github": "ln2008",
-      "portfolio": "",
       "count": 1
     }
   ]
