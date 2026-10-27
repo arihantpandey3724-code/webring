@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T11:03:24.859Z",
+  "updatedAt": "2026-10-27T16:29:05.593Z",
   "leaderboard": [
     {
       "name": "Ritesh Ritu Raj",
@@ -35,7 +35,7 @@
       "name": "Tanishq Mehta",
       "github": "Tanishq-Mehta-1",
       "portfolio": "",
-      "count": 5
+      "count": 6
     },
     {
       "name": "Sayan Nandi",
@@ -71,6 +71,18 @@
       "name": "Harsh Brijesh Dubey",
       "github": "Hxrshthetic",
       "portfolio": "https://www.github.com/Hxrshthetic",
+      "count": 1
+    },
+    {
+      "name": "Lakshit Nawal",
+      "github": "ln2008",
+      "portfolio": "",
+      "count": 1
+    },
+    {
+      "name": "Arush Pareek",
+      "github": "Arushpareek1",
+      "portfolio": "",
       "count": 1
     },
     {
