@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-27T16:29:05.593Z",
+  "updatedAt": "2026-10-27T20:54:14.591Z",
   "leaderboard": [
     {
       "name": "Ritesh Ritu Raj",
       "github": "riteshrituraj928-pixel",
       "portfolio": "",
-      "count": 12
+      "count": 14
     },
     {
       "name": "Ansik Singh Tomar",
@@ -17,7 +17,7 @@
       "name": "ABHIJEET MISHRA",
       "github": "amabhijeet",
       "portfolio": "",
-      "count": 10
+      "count": 11
     },
     {
       "name": "Saksham Gupta",
@@ -38,16 +38,16 @@
       "count": 6
     },
     {
+      "name": "Avi Jindal",
+      "github": "jindalavi97-sudo",
+      "portfolio": "",
+      "count": 5
+    },
+    {
       "name": "Sayan Nandi",
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
       "count": 5
-    },
-    {
-      "name": "Avi Jindal",
-      "github": "jindalavi97-sudo",
-      "portfolio": "",
-      "count": 3
     },
     {
       "name": "Aarunya Kumar",
@@ -71,6 +71,12 @@
       "name": "Harsh Brijesh Dubey",
       "github": "Hxrshthetic",
       "portfolio": "https://www.github.com/Hxrshthetic",
+      "count": 1
+    },
+    {
+      "name": "Divyam Raj",
+      "github": "CodeMasala5K",
+      "portfolio": "",
       "count": 1
     },
     {
