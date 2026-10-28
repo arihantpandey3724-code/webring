@@ -1,23 +1,17 @@
 {
-  "updatedAt": "2026-10-27T20:54:14.591Z",
+  "updatedAt": "2026-10-28T00:11:52.325Z",
   "leaderboard": [
     {
       "name": "Ritesh Ritu Raj",
       "github": "riteshrituraj928-pixel",
       "portfolio": "",
-      "count": 14
-    },
-    {
-      "name": "Ansik Singh Tomar",
-      "github": "aanshik-dev",
-      "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 11
+      "count": 12
     },
     {
       "name": "ABHIJEET MISHRA",
       "github": "amabhijeet",
       "portfolio": "",
-      "count": 11
+      "count": 10
     },
     {
       "name": "Saksham Gupta",
@@ -26,10 +20,16 @@
       "count": 10
     },
     {
+      "name": "Ansik Singh Tomar",
+      "github": "aanshik-dev",
+      "portfolio": "https://aanshik-dev.vercel.app/",
+      "count": 9
+    },
+    {
       "name": "TaHooR",
       "github": "TaH00R",
       "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 7
+      "count": 6
     },
     {
       "name": "Tanishq Mehta",
@@ -50,16 +50,16 @@
       "count": 5
     },
     {
-      "name": "Aarunya Kumar",
-      "github": "AarunyaKumar",
-      "portfolio": "",
-      "count": 3
-    },
-    {
       "name": "Suyash Jain",
       "github": "suyashjain1404-stack",
       "portfolio": "",
       "count": 3
+    },
+    {
+      "name": "Aarunya Kumar",
+      "github": "AarunyaKumar",
+      "portfolio": "",
+      "count": 2
     },
     {
       "name": "Arpit Kumar",
