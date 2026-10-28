@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T00:11:52.325Z",
+  "updatedAt": "2026-10-28T05:43:04.706Z",
   "leaderboard": [
     {
       "name": "Ritesh Ritu Raj",
@@ -53,7 +53,7 @@
       "name": "Suyash Jain",
       "github": "suyashjain1404-stack",
       "portfolio": "",
-      "count": 3
+      "count": 5
     },
     {
       "name": "Aarunya Kumar",
@@ -94,6 +94,12 @@
     {
       "name": "Vivek Jaiswal",
       "github": "vivek-2486",
+      "portfolio": "",
+      "count": 1
+    },
+    {
+      "name": "Manoj Gurjar",
+      "github": "Manojgurjar99",
       "portfolio": "",
       "count": 1
     }
