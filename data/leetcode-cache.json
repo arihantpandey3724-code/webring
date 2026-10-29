@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T07:15:16.008Z",
+  "updatedAt": "2026-10-29T14:27:06.968Z",
   "leaderboard": [
     {
       "name": "Ritesh Ritu Raj",
@@ -26,22 +26,22 @@
       "count": 8
     },
     {
+      "name": "TaHooR",
+      "github": "TaH00R",
+      "portfolio": "https://tah00r.github.io/portfolio/",
+      "count": 7
+    },
+    {
       "name": "Tanishq Mehta",
       "github": "Tanishq-Mehta-1",
       "portfolio": "",
       "count": 7
     },
     {
-      "name": "TaHooR",
-      "github": "TaH00R",
-      "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 6
-    },
-    {
       "name": "Sayan Nandi",
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 6
+      "count": 7
     },
     {
       "name": "Avi Jindal",
@@ -53,7 +53,13 @@
       "name": "Vivek Jaiswal",
       "github": "vivek-2486",
       "portfolio": "",
-      "count": 4
+      "count": 5
+    },
+    {
+      "name": "Lakshit Nawal",
+      "github": "ln2008",
+      "portfolio": "",
+      "count": 2
     },
     {
       "name": "Aarunya Kumar",
@@ -70,12 +76,6 @@
     {
       "name": "Divyam Raj",
       "github": "CodeMasala5K",
-      "portfolio": "",
-      "count": 1
-    },
-    {
-      "name": "Lakshit Nawal",
-      "github": "ln2008",
       "portfolio": "",
       "count": 1
     },
