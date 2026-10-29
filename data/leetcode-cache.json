@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-10-29T14:27:06.968Z",
+  "updatedAt": "2026-10-29T19:47:14.007Z",
   "leaderboard": [
     {
       "name": "Ritesh Ritu Raj",
       "github": "riteshrituraj928-pixel",
+      "portfolio": "",
+      "count": 13
+    },
+    {
+      "name": "ABHIJEET MISHRA",
+      "github": "amabhijeet",
       "portfolio": "",
       "count": 12
     },
@@ -18,12 +24,6 @@
       "github": "AccidentalGenius08",
       "portfolio": "",
       "count": 10
-    },
-    {
-      "name": "ABHIJEET MISHRA",
-      "github": "amabhijeet",
-      "portfolio": "",
-      "count": 8
     },
     {
       "name": "TaHooR",
@@ -47,13 +47,13 @@
       "name": "Avi Jindal",
       "github": "jindalavi97-sudo",
       "portfolio": "",
-      "count": 5
+      "count": 6
     },
     {
       "name": "Vivek Jaiswal",
       "github": "vivek-2486",
       "portfolio": "",
-      "count": 5
+      "count": 6
     },
     {
       "name": "Lakshit Nawal",
@@ -62,8 +62,20 @@
       "count": 2
     },
     {
+      "name": "Arush Pareek",
+      "github": "Arushpareek1",
+      "portfolio": "",
+      "count": 2
+    },
+    {
       "name": "Aarunya Kumar",
       "github": "AarunyaKumar",
+      "portfolio": "",
+      "count": 2
+    },
+    {
+      "name": "Manoj Gurjar",
+      "github": "Manojgurjar99",
       "portfolio": "",
       "count": 2
     },
@@ -76,18 +88,6 @@
     {
       "name": "Divyam Raj",
       "github": "CodeMasala5K",
-      "portfolio": "",
-      "count": 1
-    },
-    {
-      "name": "Arush Pareek",
-      "github": "Arushpareek1",
-      "portfolio": "",
-      "count": 1
-    },
-    {
-      "name": "Manoj Gurjar",
-      "github": "Manojgurjar99",
       "portfolio": "",
       "count": 1
     }
