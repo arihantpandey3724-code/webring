@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T01:19:17.801Z",
+  "updatedAt": "2026-10-29T07:15:16.008Z",
   "leaderboard": [
     {
       "name": "Ritesh Ritu Raj",
@@ -8,16 +8,16 @@
       "count": 12
     },
     {
+      "name": "Ansik Singh Tomar",
+      "github": "aanshik-dev",
+      "portfolio": "https://aanshik-dev.vercel.app/",
+      "count": 10
+    },
+    {
       "name": "Saksham Gupta",
       "github": "AccidentalGenius08",
       "portfolio": "",
       "count": 10
-    },
-    {
-      "name": "Ansik Singh Tomar",
-      "github": "aanshik-dev",
-      "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 9
     },
     {
       "name": "ABHIJEET MISHRA",
@@ -38,15 +38,15 @@
       "count": 6
     },
     {
-      "name": "Avi Jindal",
-      "github": "jindalavi97-sudo",
-      "portfolio": "",
-      "count": 5
-    },
-    {
       "name": "Sayan Nandi",
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
+      "count": 6
+    },
+    {
+      "name": "Avi Jindal",
+      "github": "jindalavi97-sudo",
+      "portfolio": "",
       "count": 5
     },
     {
