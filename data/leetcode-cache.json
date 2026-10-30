@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-30T02:58:03.079Z",
+  "updatedAt": "2026-10-30T09:45:19.788Z",
   "leaderboard": [
     {
       "name": "ABHIJEET MISHRA",
       "github": "amabhijeet",
       "portfolio": "",
-      "count": 11
+      "count": 12
     },
     {
       "name": "Ritesh Ritu Raj",
@@ -17,12 +17,18 @@
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 8
+      "count": 9
     },
     {
       "name": "TaHooR",
       "github": "TaH00R",
       "portfolio": "https://tah00r.github.io/portfolio/",
+      "count": 6
+    },
+    {
+      "name": "Sayan Nandi",
+      "github": "SayanNnd",
+      "portfolio": "https://sayannnd.github.io/About-Me/",
       "count": 6
     },
     {
@@ -32,22 +38,16 @@
       "count": 6
     },
     {
+      "name": "Tanishq Mehta",
+      "github": "Tanishq-Mehta-1",
+      "portfolio": "",
+      "count": 5
+    },
+    {
       "name": "Avi Jindal",
       "github": "jindalavi97-sudo",
       "portfolio": "",
       "count": 5
-    },
-    {
-      "name": "Sayan Nandi",
-      "github": "SayanNnd",
-      "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 5
-    },
-    {
-      "name": "Tanishq Mehta",
-      "github": "Tanishq-Mehta-1",
-      "portfolio": "",
-      "count": 4
     },
     {
       "name": "Lakshit Nawal",
@@ -70,6 +70,12 @@
     {
       "name": "Divyam Raj",
       "github": "CodeMasala5K",
+      "portfolio": "",
+      "count": 1
+    },
+    {
+      "name": "Reyansh Saxena",
+      "github": "RS-2309",
       "portfolio": "",
       "count": 1
     },
