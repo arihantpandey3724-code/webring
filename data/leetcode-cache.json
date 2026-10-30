@@ -1,52 +1,28 @@
 {
-  "updatedAt": "2026-10-29T23:39:19.912Z",
+  "updatedAt": "2026-10-30T02:58:03.079Z",
   "leaderboard": [
-    {
-      "name": "Ritesh Ritu Raj",
-      "github": "riteshrituraj928-pixel",
-      "portfolio": "",
-      "count": 13
-    },
     {
       "name": "ABHIJEET MISHRA",
       "github": "amabhijeet",
       "portfolio": "",
-      "count": 12
+      "count": 11
+    },
+    {
+      "name": "Ritesh Ritu Raj",
+      "github": "riteshrituraj928-pixel",
+      "portfolio": "",
+      "count": 11
     },
     {
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 10
-    },
-    {
-      "name": "Saksham Gupta",
-      "github": "AccidentalGenius08",
-      "portfolio": "",
-      "count": 10
+      "count": 8
     },
     {
       "name": "TaHooR",
       "github": "TaH00R",
       "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 7
-    },
-    {
-      "name": "Tanishq Mehta",
-      "github": "Tanishq-Mehta-1",
-      "portfolio": "",
-      "count": 7
-    },
-    {
-      "name": "Sayan Nandi",
-      "github": "SayanNnd",
-      "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 7
-    },
-    {
-      "name": "Avi Jindal",
-      "github": "jindalavi97-sudo",
-      "portfolio": "",
       "count": 6
     },
     {
@@ -54,6 +30,24 @@
       "github": "vivek-2486",
       "portfolio": "",
       "count": 6
+    },
+    {
+      "name": "Avi Jindal",
+      "github": "jindalavi97-sudo",
+      "portfolio": "",
+      "count": 5
+    },
+    {
+      "name": "Sayan Nandi",
+      "github": "SayanNnd",
+      "portfolio": "https://sayannnd.github.io/About-Me/",
+      "count": 5
+    },
+    {
+      "name": "Tanishq Mehta",
+      "github": "Tanishq-Mehta-1",
+      "portfolio": "",
+      "count": 4
     },
     {
       "name": "Lakshit Nawal",
@@ -68,27 +62,21 @@
       "count": 2
     },
     {
-      "name": "Aarunya Kumar",
-      "github": "AarunyaKumar",
-      "portfolio": "",
-      "count": 2
-    },
-    {
       "name": "Manoj Gurjar",
       "github": "Manojgurjar99",
       "portfolio": "",
       "count": 2
     },
     {
-      "name": "Arpit Kumar",
-      "github": "ArpitzzKumar",
-      "portfolio": "https://arpitzzkumar.github.io/AboutMyself/",
-      "count": 2
-    },
-    {
       "name": "Divyam Raj",
       "github": "CodeMasala5K",
       "portfolio": "",
+      "count": 1
+    },
+    {
+      "name": "Arpit Kumar",
+      "github": "ArpitzzKumar",
+      "portfolio": "https://arpitzzkumar.github.io/AboutMyself/",
       "count": 1
     }
   ]
