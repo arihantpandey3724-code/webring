@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-30T09:45:19.788Z",
+  "updatedAt": "2026-10-30T16:17:24.689Z",
   "leaderboard": [
     {
       "name": "ABHIJEET MISHRA",
       "github": "amabhijeet",
       "portfolio": "",
-      "count": 12
+      "count": 16
     },
     {
       "name": "Ritesh Ritu Raj",
@@ -23,7 +23,7 @@
       "name": "TaHooR",
       "github": "TaH00R",
       "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 6
+      "count": 7
     },
     {
       "name": "Sayan Nandi",
@@ -76,6 +76,12 @@
     {
       "name": "Reyansh Saxena",
       "github": "RS-2309",
+      "portfolio": "",
+      "count": 1
+    },
+    {
+      "name": "Ujjawal Kushwaha",
+      "github": "ironhacked",
       "portfolio": "",
       "count": 1
     },
