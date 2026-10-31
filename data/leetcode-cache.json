@@ -1,34 +1,28 @@
 {
-  "updatedAt": "2026-10-30T20:53:41.359Z",
+  "updatedAt": "2026-10-31T00:17:38.295Z",
   "leaderboard": [
     {
       "name": "ABHIJEET MISHRA",
       "github": "amabhijeet",
       "portfolio": "",
-      "count": 17
-    },
-    {
-      "name": "Ritesh Ritu Raj",
-      "github": "riteshrituraj928-pixel",
-      "portfolio": "",
-      "count": 12
+      "count": 16
     },
     {
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 9
+      "count": 8
+    },
+    {
+      "name": "Ritesh Ritu Raj",
+      "github": "riteshrituraj928-pixel",
+      "portfolio": "",
+      "count": 7
     },
     {
       "name": "TaHooR",
       "github": "TaH00R",
       "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 7
-    },
-    {
-      "name": "Sayan Nandi",
-      "github": "SayanNnd",
-      "portfolio": "https://sayannnd.github.io/About-Me/",
       "count": 6
     },
     {
@@ -38,16 +32,22 @@
       "count": 6
     },
     {
+      "name": "Sayan Nandi",
+      "github": "SayanNnd",
+      "portfolio": "https://sayannnd.github.io/About-Me/",
+      "count": 5
+    },
+    {
       "name": "Tanishq Mehta",
       "github": "Tanishq-Mehta-1",
       "portfolio": "",
-      "count": 5
+      "count": 4
     },
     {
       "name": "Avi Jindal",
       "github": "jindalavi97-sudo",
       "portfolio": "",
-      "count": 5
+      "count": 4
     },
     {
       "name": "Divyam Raj",
