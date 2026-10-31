@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T11:44:20.567Z",
+  "updatedAt": "2026-10-31T16:20:51.529Z",
   "leaderboard": [
     {
       "name": "ABHIJEET MISHRA",
@@ -38,6 +38,12 @@
       "count": 5
     },
     {
+      "name": "Manoj Gurjar",
+      "github": "Manojgurjar99",
+      "portfolio": "",
+      "count": 5
+    },
+    {
       "name": "Tanishq Mehta",
       "github": "Tanishq-Mehta-1",
       "portfolio": "",
@@ -71,12 +77,6 @@
       "name": "Devesh Srivastava",
       "github": "IntrovertSpecialist",
       "portfolio": "https://github.com/IntrovertSpecialist",
-      "count": 2
-    },
-    {
-      "name": "Manoj Gurjar",
-      "github": "Manojgurjar99",
-      "portfolio": "",
       "count": 2
     },
     {
