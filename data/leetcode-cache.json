@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T16:20:51.529Z",
+  "updatedAt": "2026-10-31T20:07:05.037Z",
   "leaderboard": [
     {
       "name": "ABHIJEET MISHRA",
@@ -26,6 +26,12 @@
       "count": 7
     },
     {
+      "name": "Manoj Gurjar",
+      "github": "Manojgurjar99",
+      "portfolio": "",
+      "count": 7
+    },
+    {
       "name": "Vivek Jaiswal",
       "github": "vivek-2486",
       "portfolio": "",
@@ -35,12 +41,6 @@
       "name": "Sayan Nandi",
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 5
-    },
-    {
-      "name": "Manoj Gurjar",
-      "github": "Manojgurjar99",
-      "portfolio": "",
       "count": 5
     },
     {
@@ -62,6 +62,12 @@
       "count": 2
     },
     {
+      "name": "Reyansh Saxena",
+      "github": "RS-2309",
+      "portfolio": "",
+      "count": 2
+    },
+    {
       "name": "Lakshit Nawal",
       "github": "ln2008",
       "portfolio": "",
@@ -78,12 +84,6 @@
       "github": "IntrovertSpecialist",
       "portfolio": "https://github.com/IntrovertSpecialist",
       "count": 2
-    },
-    {
-      "name": "Reyansh Saxena",
-      "github": "RS-2309",
-      "portfolio": "",
-      "count": 1
     },
     {
       "name": "Ujjawal Kushwaha",
