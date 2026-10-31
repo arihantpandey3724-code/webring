@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T05:56:24.391Z",
+  "updatedAt": "2026-10-31T11:44:20.567Z",
   "leaderboard": [
     {
       "name": "ABHIJEET MISHRA",
@@ -11,19 +11,19 @@
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Ritesh Ritu Raj",
       "github": "riteshrituraj928-pixel",
       "portfolio": "",
-      "count": 7
+      "count": 8
     },
     {
       "name": "TaHooR",
       "github": "TaH00R",
       "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 6
+      "count": 7
     },
     {
       "name": "Vivek Jaiswal",
@@ -65,6 +65,12 @@
       "name": "Arush Pareek",
       "github": "Arushpareek1",
       "portfolio": "",
+      "count": 2
+    },
+    {
+      "name": "Devesh Srivastava",
+      "github": "IntrovertSpecialist",
+      "portfolio": "https://github.com/IntrovertSpecialist",
       "count": 2
     },
     {
