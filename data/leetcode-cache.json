@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-01T16:15:15.889Z",
+  "updatedAt": "2026-11-01T20:34:21.101Z",
   "leaderboard": [
     {
       "name": "ABHIJEET MISHRA",
       "github": "amabhijeet",
       "portfolio": "",
-      "count": 14
+      "count": 16
     },
     {
       "name": "Manoj Gurjar",
@@ -38,6 +38,12 @@
       "count": 6
     },
     {
+      "name": "Tanishq Mehta",
+      "github": "Tanishq-Mehta-1",
+      "portfolio": "",
+      "count": 5
+    },
+    {
       "name": "Avi Jindal",
       "github": "jindalavi97-sudo",
       "portfolio": "",
@@ -50,16 +56,16 @@
       "count": 5
     },
     {
+      "name": "Ujjawal Kushwaha",
+      "github": "ironhacked",
+      "portfolio": "",
+      "count": 5
+    },
+    {
       "name": "Devesh Srivastava",
       "github": "IntrovertSpecialist",
       "portfolio": "https://github.com/IntrovertSpecialist",
       "count": 5
-    },
-    {
-      "name": "Tanishq Mehta",
-      "github": "Tanishq-Mehta-1",
-      "portfolio": "",
-      "count": 4
     },
     {
       "name": "Divyam Raj",
@@ -84,12 +90,6 @@
       "github": "Arushpareek1",
       "portfolio": "",
       "count": 2
-    },
-    {
-      "name": "Ujjawal Kushwaha",
-      "github": "ironhacked",
-      "portfolio": "",
-      "count": 1
     }
   ]
 }
