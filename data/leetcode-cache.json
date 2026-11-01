@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T02:22:21.520Z",
+  "updatedAt": "2026-11-01T09:27:02.600Z",
   "leaderboard": [
     {
       "name": "ABHIJEET MISHRA",
@@ -11,25 +11,25 @@
       "name": "Ritesh Ritu Raj",
       "github": "riteshrituraj928-pixel",
       "portfolio": "",
-      "count": 7
+      "count": 8
     },
     {
       "name": "Manoj Gurjar",
       "github": "Manojgurjar99",
       "portfolio": "",
-      "count": 7
+      "count": 8
     },
     {
       "name": "TaHooR",
       "github": "TaH00R",
       "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 6
+      "count": 7
     },
     {
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 6
+      "count": 7
     },
     {
       "name": "Vivek Jaiswal",
@@ -38,20 +38,26 @@
       "count": 6
     },
     {
+      "name": "Avi Jindal",
+      "github": "jindalavi97-sudo",
+      "portfolio": "",
+      "count": 5
+    },
+    {
       "name": "Sayan Nandi",
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
       "count": 5
     },
     {
-      "name": "Tanishq Mehta",
-      "github": "Tanishq-Mehta-1",
-      "portfolio": "",
-      "count": 4
+      "name": "Devesh Srivastava",
+      "github": "IntrovertSpecialist",
+      "portfolio": "https://github.com/IntrovertSpecialist",
+      "count": 5
     },
     {
-      "name": "Avi Jindal",
-      "github": "jindalavi97-sudo",
+      "name": "Tanishq Mehta",
+      "github": "Tanishq-Mehta-1",
       "portfolio": "",
       "count": 4
     },
@@ -77,12 +83,6 @@
       "name": "Arush Pareek",
       "github": "Arushpareek1",
       "portfolio": "",
-      "count": 2
-    },
-    {
-      "name": "Devesh Srivastava",
-      "github": "IntrovertSpecialist",
-      "portfolio": "https://github.com/IntrovertSpecialist",
       "count": 2
     },
     {
