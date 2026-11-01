@@ -1,28 +1,16 @@
 {
-  "updatedAt": "2026-10-31T23:20:46.552Z",
+  "updatedAt": "2026-11-01T02:22:21.520Z",
   "leaderboard": [
     {
       "name": "ABHIJEET MISHRA",
       "github": "amabhijeet",
       "portfolio": "",
-      "count": 16
-    },
-    {
-      "name": "Ansik Singh Tomar",
-      "github": "aanshik-dev",
-      "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 9
+      "count": 13
     },
     {
       "name": "Ritesh Ritu Raj",
       "github": "riteshrituraj928-pixel",
       "portfolio": "",
-      "count": 8
-    },
-    {
-      "name": "TaHooR",
-      "github": "TaH00R",
-      "portfolio": "https://tah00r.github.io/portfolio/",
       "count": 7
     },
     {
@@ -30,6 +18,18 @@
       "github": "Manojgurjar99",
       "portfolio": "",
       "count": 7
+    },
+    {
+      "name": "TaHooR",
+      "github": "TaH00R",
+      "portfolio": "https://tah00r.github.io/portfolio/",
+      "count": 6
+    },
+    {
+      "name": "Ansik Singh Tomar",
+      "github": "aanshik-dev",
+      "portfolio": "https://aanshik-dev.vercel.app/",
+      "count": 6
     },
     {
       "name": "Vivek Jaiswal",
@@ -89,12 +89,6 @@
       "name": "Ujjawal Kushwaha",
       "github": "ironhacked",
       "portfolio": "",
-      "count": 1
-    },
-    {
-      "name": "Arpit Kumar",
-      "github": "ArpitzzKumar",
-      "portfolio": "https://arpitzzkumar.github.io/AboutMyself/",
       "count": 1
     }
   ]
