@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-11-02T10:38:58.795Z",
+  "updatedAt": "2026-11-02T20:31:03.543Z",
   "leaderboard": [
+    {
+      "name": "Manoj Gurjar",
+      "github": "Manojgurjar99",
+      "portfolio": "",
+      "count": 15
+    },
     {
       "name": "ABHIJEET MISHRA",
       "github": "amabhijeet",
@@ -8,10 +14,10 @@
       "count": 14
     },
     {
-      "name": "Manoj Gurjar",
-      "github": "Manojgurjar99",
+      "name": "Ritesh Ritu Raj",
+      "github": "riteshrituraj928-pixel",
       "portfolio": "",
-      "count": 9
+      "count": 8
     },
     {
       "name": "TaHooR",
@@ -26,10 +32,16 @@
       "count": 7
     },
     {
-      "name": "Ritesh Ritu Raj",
-      "github": "riteshrituraj928-pixel",
+      "name": "Ujjawal Kushwaha",
+      "github": "ironhacked",
       "portfolio": "",
       "count": 7
+    },
+    {
+      "name": "Avi Jindal",
+      "github": "jindalavi97-sudo",
+      "portfolio": "",
+      "count": 6
     },
     {
       "name": "Sayan Nandi",
@@ -48,18 +60,6 @@
       "github": "vivek-2486",
       "portfolio": "",
       "count": 6
-    },
-    {
-      "name": "Avi Jindal",
-      "github": "jindalavi97-sudo",
-      "portfolio": "",
-      "count": 5
-    },
-    {
-      "name": "Ujjawal Kushwaha",
-      "github": "ironhacked",
-      "portfolio": "",
-      "count": 5
     },
     {
       "name": "Tanishq Mehta",
