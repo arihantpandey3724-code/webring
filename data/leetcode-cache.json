@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T02:57:12.013Z",
+  "updatedAt": "2026-11-02T10:38:58.795Z",
   "leaderboard": [
     {
       "name": "ABHIJEET MISHRA",
@@ -14,21 +14,33 @@
       "count": 9
     },
     {
+      "name": "TaHooR",
+      "github": "TaH00R",
+      "portfolio": "https://tah00r.github.io/portfolio/",
+      "count": 7
+    },
+    {
+      "name": "Ansik Singh Tomar",
+      "github": "aanshik-dev",
+      "portfolio": "https://aanshik-dev.vercel.app/",
+      "count": 7
+    },
+    {
       "name": "Ritesh Ritu Raj",
       "github": "riteshrituraj928-pixel",
       "portfolio": "",
       "count": 7
     },
     {
-      "name": "TaHooR",
-      "github": "TaH00R",
-      "portfolio": "https://tah00r.github.io/portfolio/",
+      "name": "Sayan Nandi",
+      "github": "SayanNnd",
+      "portfolio": "https://sayannnd.github.io/About-Me/",
       "count": 6
     },
     {
-      "name": "Ansik Singh Tomar",
-      "github": "aanshik-dev",
-      "portfolio": "https://aanshik-dev.vercel.app/",
+      "name": "Devesh Srivastava",
+      "github": "IntrovertSpecialist",
+      "portfolio": "https://github.com/IntrovertSpecialist",
       "count": 6
     },
     {
@@ -44,21 +56,9 @@
       "count": 5
     },
     {
-      "name": "Sayan Nandi",
-      "github": "SayanNnd",
-      "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 5
-    },
-    {
       "name": "Ujjawal Kushwaha",
       "github": "ironhacked",
       "portfolio": "",
-      "count": 5
-    },
-    {
-      "name": "Devesh Srivastava",
-      "github": "IntrovertSpecialist",
-      "portfolio": "https://github.com/IntrovertSpecialist",
       "count": 5
     },
     {
