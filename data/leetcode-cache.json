@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-01T23:52:05.431Z",
+  "updatedAt": "2026-11-02T02:57:12.013Z",
   "leaderboard": [
     {
       "name": "ABHIJEET MISHRA",
       "github": "amabhijeet",
       "portfolio": "",
-      "count": 16
+      "count": 14
     },
     {
       "name": "Manoj Gurjar",
@@ -17,31 +17,25 @@
       "name": "Ritesh Ritu Raj",
       "github": "riteshrituraj928-pixel",
       "portfolio": "",
-      "count": 8
+      "count": 7
     },
     {
       "name": "TaHooR",
       "github": "TaH00R",
       "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 7
+      "count": 6
     },
     {
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 7
+      "count": 6
     },
     {
       "name": "Vivek Jaiswal",
       "github": "vivek-2486",
       "portfolio": "",
       "count": 6
-    },
-    {
-      "name": "Tanishq Mehta",
-      "github": "Tanishq-Mehta-1",
-      "portfolio": "",
-      "count": 5
     },
     {
       "name": "Avi Jindal",
@@ -66,6 +60,12 @@
       "github": "IntrovertSpecialist",
       "portfolio": "https://github.com/IntrovertSpecialist",
       "count": 5
+    },
+    {
+      "name": "Tanishq Mehta",
+      "github": "Tanishq-Mehta-1",
+      "portfolio": "",
+      "count": 4
     },
     {
       "name": "Divyam Raj",
