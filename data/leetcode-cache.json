@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T10:02:45.015Z",
+  "updatedAt": "2026-11-03T17:44:45.301Z",
   "leaderboard": [
     {
       "name": "Manoj Gurjar",
@@ -17,12 +17,18 @@
       "name": "Sayan Nandi",
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Devesh Srivastava",
       "github": "IntrovertSpecialist",
       "portfolio": "https://github.com/IntrovertSpecialist",
+      "count": 9
+    },
+    {
+      "name": "Ritesh Ritu Raj",
+      "github": "riteshrituraj928-pixel",
+      "portfolio": "",
       "count": 8
     },
     {
@@ -44,22 +50,16 @@
       "count": 7
     },
     {
-      "name": "Ritesh Ritu Raj",
-      "github": "riteshrituraj928-pixel",
-      "portfolio": "",
-      "count": 6
-    },
-    {
       "name": "Vivek Jaiswal",
       "github": "vivek-2486",
       "portfolio": "",
-      "count": 5
+      "count": 6
     },
     {
       "name": "Avi Jindal",
       "github": "jindalavi97-sudo",
       "portfolio": "",
-      "count": 4
+      "count": 5
     },
     {
       "name": "Tanishq Mehta",
@@ -72,6 +72,18 @@
       "github": "RS-2309",
       "portfolio": "",
       "count": 2
+    },
+    {
+      "name": "Pratham Gupta",
+      "github": "Pratham-gupta610",
+      "portfolio": "",
+      "count": 1
+    },
+    {
+      "name": "Harsh Brijesh Dubey",
+      "github": "Hxrshthetic",
+      "portfolio": "https://www.github.com/Hxrshthetic",
+      "count": 1
     },
     {
       "name": "Divyam Raj",
