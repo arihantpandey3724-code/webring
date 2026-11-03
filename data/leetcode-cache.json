@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T20:31:03.543Z",
+  "updatedAt": "2026-11-03T02:36:33.683Z",
   "leaderboard": [
     {
       "name": "Manoj Gurjar",
@@ -11,25 +11,7 @@
       "name": "ABHIJEET MISHRA",
       "github": "amabhijeet",
       "portfolio": "",
-      "count": 14
-    },
-    {
-      "name": "Ritesh Ritu Raj",
-      "github": "riteshrituraj928-pixel",
-      "portfolio": "",
-      "count": 8
-    },
-    {
-      "name": "TaHooR",
-      "github": "TaH00R",
-      "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 7
-    },
-    {
-      "name": "Ansik Singh Tomar",
-      "github": "aanshik-dev",
-      "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 7
+      "count": 13
     },
     {
       "name": "Ujjawal Kushwaha",
@@ -38,15 +20,21 @@
       "count": 7
     },
     {
-      "name": "Avi Jindal",
-      "github": "jindalavi97-sudo",
-      "portfolio": "",
+      "name": "TaHooR",
+      "github": "TaH00R",
+      "portfolio": "https://tah00r.github.io/portfolio/",
       "count": 6
     },
     {
-      "name": "Sayan Nandi",
-      "github": "SayanNnd",
-      "portfolio": "https://sayannnd.github.io/About-Me/",
+      "name": "Ansik Singh Tomar",
+      "github": "aanshik-dev",
+      "portfolio": "https://aanshik-dev.vercel.app/",
+      "count": 6
+    },
+    {
+      "name": "Ritesh Ritu Raj",
+      "github": "riteshrituraj928-pixel",
+      "portfolio": "",
       "count": 6
     },
     {
@@ -56,22 +44,28 @@
       "count": 6
     },
     {
+      "name": "Sayan Nandi",
+      "github": "SayanNnd",
+      "portfolio": "https://sayannnd.github.io/About-Me/",
+      "count": 5
+    },
+    {
       "name": "Vivek Jaiswal",
       "github": "vivek-2486",
       "portfolio": "",
-      "count": 6
+      "count": 5
+    },
+    {
+      "name": "Avi Jindal",
+      "github": "jindalavi97-sudo",
+      "portfolio": "",
+      "count": 4
     },
     {
       "name": "Tanishq Mehta",
       "github": "Tanishq-Mehta-1",
       "portfolio": "",
-      "count": 4
-    },
-    {
-      "name": "Divyam Raj",
-      "github": "CodeMasala5K",
-      "portfolio": "",
-      "count": 2
+      "count": 3
     },
     {
       "name": "Reyansh Saxena",
@@ -80,16 +74,22 @@
       "count": 2
     },
     {
+      "name": "Divyam Raj",
+      "github": "CodeMasala5K",
+      "portfolio": "",
+      "count": 1
+    },
+    {
       "name": "Lakshit Nawal",
       "github": "ln2008",
       "portfolio": "",
-      "count": 2
+      "count": 1
     },
     {
       "name": "Arush Pareek",
       "github": "Arushpareek1",
       "portfolio": "",
-      "count": 2
+      "count": 1
     }
   ]
 }
