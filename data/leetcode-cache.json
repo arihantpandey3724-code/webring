@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-03T02:36:33.683Z",
+  "updatedAt": "2026-11-03T10:02:45.015Z",
   "leaderboard": [
     {
       "name": "Manoj Gurjar",
       "github": "Manojgurjar99",
       "portfolio": "",
-      "count": 15
+      "count": 19
     },
     {
       "name": "ABHIJEET MISHRA",
@@ -14,40 +14,40 @@
       "count": 13
     },
     {
+      "name": "Sayan Nandi",
+      "github": "SayanNnd",
+      "portfolio": "https://sayannnd.github.io/About-Me/",
+      "count": 8
+    },
+    {
+      "name": "Devesh Srivastava",
+      "github": "IntrovertSpecialist",
+      "portfolio": "https://github.com/IntrovertSpecialist",
+      "count": 8
+    },
+    {
+      "name": "TaHooR",
+      "github": "TaH00R",
+      "portfolio": "https://tah00r.github.io/portfolio/",
+      "count": 7
+    },
+    {
+      "name": "Ansik Singh Tomar",
+      "github": "aanshik-dev",
+      "portfolio": "https://aanshik-dev.vercel.app/",
+      "count": 7
+    },
+    {
       "name": "Ujjawal Kushwaha",
       "github": "ironhacked",
       "portfolio": "",
       "count": 7
     },
     {
-      "name": "TaHooR",
-      "github": "TaH00R",
-      "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 6
-    },
-    {
-      "name": "Ansik Singh Tomar",
-      "github": "aanshik-dev",
-      "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 6
-    },
-    {
       "name": "Ritesh Ritu Raj",
       "github": "riteshrituraj928-pixel",
       "portfolio": "",
       "count": 6
-    },
-    {
-      "name": "Devesh Srivastava",
-      "github": "IntrovertSpecialist",
-      "portfolio": "https://github.com/IntrovertSpecialist",
-      "count": 6
-    },
-    {
-      "name": "Sayan Nandi",
-      "github": "SayanNnd",
-      "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 5
     },
     {
       "name": "Vivek Jaiswal",
