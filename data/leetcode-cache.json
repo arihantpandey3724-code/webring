@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T09:52:37.958Z",
+  "updatedAt": "2026-11-04T17:39:12.021Z",
   "leaderboard": [
     {
       "name": "Manoj Gurjar",
@@ -14,16 +14,28 @@
       "count": 13
     },
     {
+      "name": "Sayan Nandi",
+      "github": "SayanNnd",
+      "portfolio": "https://sayannnd.github.io/About-Me/",
+      "count": 9
+    },
+    {
       "name": "Devesh Srivastava",
       "github": "IntrovertSpecialist",
       "portfolio": "https://github.com/IntrovertSpecialist",
       "count": 9
     },
     {
-      "name": "Sayan Nandi",
-      "github": "SayanNnd",
-      "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 8
+      "name": "TaHooR",
+      "github": "TaH00R",
+      "portfolio": "https://tah00r.github.io/portfolio/",
+      "count": 7
+    },
+    {
+      "name": "Ansik Singh Tomar",
+      "github": "aanshik-dev",
+      "portfolio": "https://aanshik-dev.vercel.app/",
+      "count": 7
     },
     {
       "name": "Ritesh Ritu Raj",
@@ -38,18 +50,6 @@
       "count": 7
     },
     {
-      "name": "TaHooR",
-      "github": "TaH00R",
-      "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 6
-    },
-    {
-      "name": "Ansik Singh Tomar",
-      "github": "aanshik-dev",
-      "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 6
-    },
-    {
       "name": "Avi Jindal",
       "github": "jindalavi97-sudo",
       "portfolio": "",
@@ -58,6 +58,12 @@
     {
       "name": "Vivek Jaiswal",
       "github": "vivek-2486",
+      "portfolio": "",
+      "count": 3
+    },
+    {
+      "name": "Saksham Gupta",
+      "github": "AccidentalGenius08",
       "portfolio": "",
       "count": 3
     },
