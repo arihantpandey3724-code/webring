@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T17:39:12.021Z",
+  "updatedAt": "2026-11-04T22:53:14.132Z",
   "leaderboard": [
     {
       "name": "Manoj Gurjar",
@@ -26,6 +26,12 @@
       "count": 9
     },
     {
+      "name": "Ritesh Ritu Raj",
+      "github": "riteshrituraj928-pixel",
+      "portfolio": "",
+      "count": 8
+    },
+    {
       "name": "TaHooR",
       "github": "TaH00R",
       "portfolio": "https://tah00r.github.io/portfolio/",
@@ -35,12 +41,6 @@
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 7
-    },
-    {
-      "name": "Ritesh Ritu Raj",
-      "github": "riteshrituraj928-pixel",
-      "portfolio": "",
       "count": 7
     },
     {
