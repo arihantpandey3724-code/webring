@@ -1,22 +1,16 @@
 {
-  "updatedAt": "2026-11-04T22:53:14.132Z",
+  "updatedAt": "2026-11-05T02:58:26.826Z",
   "leaderboard": [
     {
       "name": "Manoj Gurjar",
       "github": "Manojgurjar99",
       "portfolio": "",
-      "count": 19
+      "count": 18
     },
     {
       "name": "ABHIJEET MISHRA",
       "github": "amabhijeet",
       "portfolio": "",
-      "count": 13
-    },
-    {
-      "name": "Sayan Nandi",
-      "github": "SayanNnd",
-      "portfolio": "https://sayannnd.github.io/About-Me/",
       "count": 9
     },
     {
@@ -29,18 +23,12 @@
       "name": "Ritesh Ritu Raj",
       "github": "riteshrituraj928-pixel",
       "portfolio": "",
-      "count": 8
-    },
-    {
-      "name": "TaHooR",
-      "github": "TaH00R",
-      "portfolio": "https://tah00r.github.io/portfolio/",
       "count": 7
     },
     {
-      "name": "Ansik Singh Tomar",
-      "github": "aanshik-dev",
-      "portfolio": "https://aanshik-dev.vercel.app/",
+      "name": "Sayan Nandi",
+      "github": "SayanNnd",
+      "portfolio": "https://sayannnd.github.io/About-Me/",
       "count": 7
     },
     {
@@ -50,14 +38,20 @@
       "count": 7
     },
     {
-      "name": "Avi Jindal",
-      "github": "jindalavi97-sudo",
-      "portfolio": "",
-      "count": 4
+      "name": "TaHooR",
+      "github": "TaH00R",
+      "portfolio": "https://tah00r.github.io/portfolio/",
+      "count": 6
     },
     {
-      "name": "Vivek Jaiswal",
-      "github": "vivek-2486",
+      "name": "Ansik Singh Tomar",
+      "github": "aanshik-dev",
+      "portfolio": "https://aanshik-dev.vercel.app/",
+      "count": 6
+    },
+    {
+      "name": "Avi Jindal",
+      "github": "jindalavi97-sudo",
       "portfolio": "",
       "count": 3
     },
@@ -98,14 +92,8 @@
       "count": 1
     },
     {
-      "name": "Lakshit Nawal",
-      "github": "ln2008",
-      "portfolio": "",
-      "count": 1
-    },
-    {
-      "name": "Arush Pareek",
-      "github": "Arushpareek1",
+      "name": "Vivek Jaiswal",
+      "github": "vivek-2486",
       "portfolio": "",
       "count": 1
     }
