@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T10:34:10.807Z",
+  "updatedAt": "2026-11-05T18:16:08.423Z",
   "leaderboard": [
     {
       "name": "Manoj Gurjar",
@@ -26,6 +26,12 @@
       "count": 8
     },
     {
+      "name": "Sayan Nandi",
+      "github": "SayanNnd",
+      "portfolio": "https://sayannnd.github.io/About-Me/",
+      "count": 8
+    },
+    {
       "name": "TaHooR",
       "github": "TaH00R",
       "portfolio": "https://tah00r.github.io/portfolio/",
@@ -35,12 +41,6 @@
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 7
-    },
-    {
-      "name": "Sayan Nandi",
-      "github": "SayanNnd",
-      "portfolio": "https://sayannnd.github.io/About-Me/",
       "count": 7
     },
     {
