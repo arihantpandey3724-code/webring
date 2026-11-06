@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T11:31:17.979Z",
+  "updatedAt": "2026-11-06T18:21:53.617Z",
   "leaderboard": [
     {
       "name": "Manoj Gurjar",
@@ -14,9 +14,21 @@
       "count": 9
     },
     {
+      "name": "Sayan Nandi",
+      "github": "SayanNnd",
+      "portfolio": "https://sayannnd.github.io/About-Me/",
+      "count": 8
+    },
+    {
       "name": "TaHooR",
       "github": "TaH00R",
       "portfolio": "https://tah00r.github.io/portfolio/",
+      "count": 7
+    },
+    {
+      "name": "Ansik Singh Tomar",
+      "github": "aanshik-dev",
+      "portfolio": "https://aanshik-dev.vercel.app/",
       "count": 7
     },
     {
@@ -26,22 +38,28 @@
       "count": 7
     },
     {
-      "name": "Sayan Nandi",
-      "github": "SayanNnd",
-      "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 7
-    },
-    {
-      "name": "Ansik Singh Tomar",
-      "github": "aanshik-dev",
-      "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 6
-    },
-    {
       "name": "Ujjawal Kushwaha",
       "github": "ironhacked",
       "portfolio": "",
       "count": 6
+    },
+    {
+      "name": "Saksham Gupta",
+      "github": "AccidentalGenius08",
+      "portfolio": "",
+      "count": 6
+    },
+    {
+      "name": "Lucky Kumari",
+      "github": "lucky-carat",
+      "portfolio": "",
+      "count": 5
+    },
+    {
+      "name": "Pratham Gupta",
+      "github": "Pratham-gupta610",
+      "portfolio": "",
+      "count": 3
     },
     {
       "name": "Avi Jindal",
@@ -54,18 +72,6 @@
       "github": "amabhijeet",
       "portfolio": "",
       "count": 3
-    },
-    {
-      "name": "Saksham Gupta",
-      "github": "AccidentalGenius08",
-      "portfolio": "",
-      "count": 3
-    },
-    {
-      "name": "Pratham Gupta",
-      "github": "Pratham-gupta610",
-      "portfolio": "",
-      "count": 1
     },
     {
       "name": "Harsh Brijesh Dubey",
