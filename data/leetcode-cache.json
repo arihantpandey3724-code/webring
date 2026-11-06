@@ -1,17 +1,11 @@
 {
-  "updatedAt": "2026-11-05T23:41:58.387Z",
+  "updatedAt": "2026-11-06T03:40:57.775Z",
   "leaderboard": [
     {
       "name": "Manoj Gurjar",
       "github": "Manojgurjar99",
       "portfolio": "",
       "count": 18
-    },
-    {
-      "name": "ABHIJEET MISHRA",
-      "github": "amabhijeet",
-      "portfolio": "",
-      "count": 9
     },
     {
       "name": "Devesh Srivastava",
@@ -23,31 +17,31 @@
       "name": "Ritesh Ritu Raj",
       "github": "riteshrituraj928-pixel",
       "portfolio": "",
-      "count": 8
+      "count": 7
     },
     {
       "name": "Sayan Nandi",
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 8
+      "count": 7
     },
     {
       "name": "TaHooR",
       "github": "TaH00R",
       "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 7
+      "count": 6
     },
     {
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 7
+      "count": 6
     },
     {
       "name": "Ujjawal Kushwaha",
       "github": "ironhacked",
       "portfolio": "",
-      "count": 7
+      "count": 6
     },
     {
       "name": "Avi Jindal",
@@ -56,22 +50,16 @@
       "count": 3
     },
     {
-      "name": "Saksham Gupta",
-      "github": "AccidentalGenius08",
+      "name": "ABHIJEET MISHRA",
+      "github": "amabhijeet",
       "portfolio": "",
       "count": 3
     },
     {
-      "name": "Tanishq Mehta",
-      "github": "Tanishq-Mehta-1",
+      "name": "Saksham Gupta",
+      "github": "AccidentalGenius08",
       "portfolio": "",
-      "count": 2
-    },
-    {
-      "name": "Reyansh Saxena",
-      "github": "RS-2309",
-      "portfolio": "",
-      "count": 2
+      "count": 3
     },
     {
       "name": "Pratham Gupta",
@@ -86,8 +74,14 @@
       "count": 1
     },
     {
-      "name": "Divyam Raj",
-      "github": "CodeMasala5K",
+      "name": "Tanishq Mehta",
+      "github": "Tanishq-Mehta-1",
+      "portfolio": "",
+      "count": 1
+    },
+    {
+      "name": "Reyansh Saxena",
+      "github": "RS-2309",
       "portfolio": "",
       "count": 1
     },
