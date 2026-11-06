@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-11-06T18:21:53.617Z",
+  "updatedAt": "2026-11-06T23:19:37.467Z",
   "leaderboard": [
     {
       "name": "Manoj Gurjar",
       "github": "Manojgurjar99",
       "portfolio": "",
       "count": 20
+    },
+    {
+      "name": "TaHooR",
+      "github": "TaH00R",
+      "portfolio": "https://tah00r.github.io/portfolio/",
+      "count": 13
     },
     {
       "name": "Devesh Srivastava",
@@ -18,12 +24,6 @@
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
       "count": 8
-    },
-    {
-      "name": "TaHooR",
-      "github": "TaH00R",
-      "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 7
     },
     {
       "name": "Ansik Singh Tomar",
