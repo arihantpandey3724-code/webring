@@ -1,17 +1,23 @@
 {
-  "updatedAt": "2026-11-06T03:40:57.775Z",
+  "updatedAt": "2026-11-06T11:31:17.979Z",
   "leaderboard": [
     {
       "name": "Manoj Gurjar",
       "github": "Manojgurjar99",
       "portfolio": "",
-      "count": 18
+      "count": 20
     },
     {
       "name": "Devesh Srivastava",
       "github": "IntrovertSpecialist",
       "portfolio": "https://github.com/IntrovertSpecialist",
       "count": 9
+    },
+    {
+      "name": "TaHooR",
+      "github": "TaH00R",
+      "portfolio": "https://tah00r.github.io/portfolio/",
+      "count": 7
     },
     {
       "name": "Ritesh Ritu Raj",
@@ -24,12 +30,6 @@
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
       "count": 7
-    },
-    {
-      "name": "TaHooR",
-      "github": "TaH00R",
-      "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 6
     },
     {
       "name": "Ansik Singh Tomar",
