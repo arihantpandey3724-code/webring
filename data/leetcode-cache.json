@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T09:39:09.740Z",
+  "updatedAt": "2026-11-07T15:55:30.173Z",
   "leaderboard": [
     {
       "name": "Manoj Gurjar",
@@ -11,25 +11,25 @@
       "name": "TaHooR",
       "github": "TaH00R",
       "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 12
+      "count": 15
     },
     {
       "name": "Sayan Nandi",
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Devesh Srivastava",
       "github": "IntrovertSpecialist",
       "portfolio": "https://github.com/IntrovertSpecialist",
-      "count": 7
+      "count": 8
     },
     {
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 6
+      "count": 7
     },
     {
       "name": "Ritesh Ritu Raj",
@@ -59,17 +59,17 @@
       "name": "Pratham Gupta",
       "github": "Pratham-gupta610",
       "portfolio": "",
-      "count": 3
-    },
-    {
-      "name": "Avi Jindal",
-      "github": "jindalavi97-sudo",
-      "portfolio": "",
-      "count": 3
+      "count": 4
     },
     {
       "name": "ABHIJEET MISHRA",
       "github": "amabhijeet",
+      "portfolio": "",
+      "count": 4
+    },
+    {
+      "name": "Avi Jindal",
+      "github": "jindalavi97-sudo",
       "portfolio": "",
       "count": 3
     },
