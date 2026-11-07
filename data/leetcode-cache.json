@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T23:19:37.467Z",
+  "updatedAt": "2026-11-07T02:56:28.801Z",
   "leaderboard": [
     {
       "name": "Manoj Gurjar",
@@ -11,13 +11,7 @@
       "name": "TaHooR",
       "github": "TaH00R",
       "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 13
-    },
-    {
-      "name": "Devesh Srivastava",
-      "github": "IntrovertSpecialist",
-      "portfolio": "https://github.com/IntrovertSpecialist",
-      "count": 9
+      "count": 12
     },
     {
       "name": "Sayan Nandi",
@@ -26,16 +20,22 @@
       "count": 8
     },
     {
+      "name": "Devesh Srivastava",
+      "github": "IntrovertSpecialist",
+      "portfolio": "https://github.com/IntrovertSpecialist",
+      "count": 7
+    },
+    {
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 7
+      "count": 6
     },
     {
       "name": "Ritesh Ritu Raj",
       "github": "riteshrituraj928-pixel",
       "portfolio": "",
-      "count": 7
+      "count": 6
     },
     {
       "name": "Ujjawal Kushwaha",
@@ -82,12 +82,6 @@
     {
       "name": "Tanishq Mehta",
       "github": "Tanishq-Mehta-1",
-      "portfolio": "",
-      "count": 1
-    },
-    {
-      "name": "Reyansh Saxena",
-      "github": "RS-2309",
       "portfolio": "",
       "count": 1
     },
