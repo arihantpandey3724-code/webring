@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T09:19:55.120Z",
+  "updatedAt": "2026-11-08T16:06:31.856Z",
   "leaderboard": [
     {
       "name": "TaHooR",
@@ -20,6 +20,12 @@
       "count": 10
     },
     {
+      "name": "Lucky Kumari",
+      "github": "lucky-carat",
+      "portfolio": "",
+      "count": 8
+    },
+    {
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
@@ -38,8 +44,8 @@
       "count": 6
     },
     {
-      "name": "Lucky Kumari",
-      "github": "lucky-carat",
+      "name": "Pratham Gupta",
+      "github": "Pratham-gupta610",
       "portfolio": "",
       "count": 5
     },
@@ -48,12 +54,6 @@
       "github": "IntrovertSpecialist",
       "portfolio": "https://github.com/IntrovertSpecialist",
       "count": 5
-    },
-    {
-      "name": "Pratham Gupta",
-      "github": "Pratham-gupta610",
-      "portfolio": "",
-      "count": 4
     },
     {
       "name": "Avi Jindal",
