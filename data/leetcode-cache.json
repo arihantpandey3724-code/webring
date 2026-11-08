@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T02:25:29.736Z",
+  "updatedAt": "2026-11-08T09:19:55.120Z",
   "leaderboard": [
     {
       "name": "TaHooR",
@@ -17,12 +17,18 @@
       "name": "Sayan Nandi",
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
+      "count": 7
+    },
+    {
+      "name": "Ritesh Ritu Raj",
+      "github": "riteshrituraj928-pixel",
+      "portfolio": "",
       "count": 6
     },
     {
@@ -34,12 +40,6 @@
     {
       "name": "Lucky Kumari",
       "github": "lucky-carat",
-      "portfolio": "",
-      "count": 5
-    },
-    {
-      "name": "Ritesh Ritu Raj",
-      "github": "riteshrituraj928-pixel",
       "portfolio": "",
       "count": 5
     },
