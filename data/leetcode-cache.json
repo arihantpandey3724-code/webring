@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T23:08:45.322Z",
+  "updatedAt": "2026-11-08T02:25:29.736Z",
   "leaderboard": [
     {
       "name": "TaHooR",
@@ -20,27 +20,9 @@
       "count": 9
     },
     {
-      "name": "Devesh Srivastava",
-      "github": "IntrovertSpecialist",
-      "portfolio": "https://github.com/IntrovertSpecialist",
-      "count": 8
-    },
-    {
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 7
-    },
-    {
-      "name": "Ritesh Ritu Raj",
-      "github": "riteshrituraj928-pixel",
-      "portfolio": "",
-      "count": 6
-    },
-    {
-      "name": "Ujjawal Kushwaha",
-      "github": "ironhacked",
-      "portfolio": "",
       "count": 6
     },
     {
@@ -56,14 +38,20 @@
       "count": 5
     },
     {
-      "name": "Pratham Gupta",
-      "github": "Pratham-gupta610",
+      "name": "Ritesh Ritu Raj",
+      "github": "riteshrituraj928-pixel",
       "portfolio": "",
-      "count": 4
+      "count": 5
     },
     {
-      "name": "ABHIJEET MISHRA",
-      "github": "amabhijeet",
+      "name": "Devesh Srivastava",
+      "github": "IntrovertSpecialist",
+      "portfolio": "https://github.com/IntrovertSpecialist",
+      "count": 5
+    },
+    {
+      "name": "Pratham Gupta",
+      "github": "Pratham-gupta610",
       "portfolio": "",
       "count": 4
     },
@@ -71,7 +59,13 @@
       "name": "Avi Jindal",
       "github": "jindalavi97-sudo",
       "portfolio": "",
-      "count": 3
+      "count": 2
+    },
+    {
+      "name": "Ujjawal Kushwaha",
+      "github": "ironhacked",
+      "portfolio": "",
+      "count": 2
     },
     {
       "name": "Ronik",
@@ -86,8 +80,8 @@
       "count": 1
     },
     {
-      "name": "Tanishq Mehta",
-      "github": "Tanishq-Mehta-1",
+      "name": "ABHIJEET MISHRA",
+      "github": "amabhijeet",
       "portfolio": "",
       "count": 1
     },
