@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T03:53:51.403Z",
+  "updatedAt": "2026-11-09T12:21:47.939Z",
   "leaderboard": [
     {
       "name": "TaHooR",
@@ -17,7 +17,7 @@
       "name": "Sayan Nandi",
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 9
+      "count": 11
     },
     {
       "name": "Lucky Kumari",
@@ -50,6 +50,12 @@
       "count": 5
     },
     {
+      "name": "ABHIJEET MISHRA",
+      "github": "amabhijeet",
+      "portfolio": "",
+      "count": 4
+    },
+    {
       "name": "Devesh Srivastava",
       "github": "IntrovertSpecialist",
       "portfolio": "https://github.com/IntrovertSpecialist",
@@ -70,12 +76,6 @@
     {
       "name": "Avi Jindal",
       "github": "jindalavi97-sudo",
-      "portfolio": "",
-      "count": 1
-    },
-    {
-      "name": "ABHIJEET MISHRA",
-      "github": "amabhijeet",
       "portfolio": "",
       "count": 1
     },
