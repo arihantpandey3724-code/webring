@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T23:54:00.186Z",
+  "updatedAt": "2026-11-09T03:53:51.403Z",
   "leaderboard": [
     {
       "name": "TaHooR",
@@ -11,13 +11,13 @@
       "name": "Manoj Gurjar",
       "github": "Manojgurjar99",
       "portfolio": "",
-      "count": 20
+      "count": 15
     },
     {
       "name": "Sayan Nandi",
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 10
+      "count": 9
     },
     {
       "name": "Lucky Kumari",
@@ -29,13 +29,13 @@
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 7
+      "count": 6
     },
     {
       "name": "Ritesh Ritu Raj",
       "github": "riteshrituraj928-pixel",
       "portfolio": "",
-      "count": 7
+      "count": 6
     },
     {
       "name": "Saksham Gupta",
@@ -53,19 +53,7 @@
       "name": "Devesh Srivastava",
       "github": "IntrovertSpecialist",
       "portfolio": "https://github.com/IntrovertSpecialist",
-      "count": 5
-    },
-    {
-      "name": "Avi Jindal",
-      "github": "jindalavi97-sudo",
-      "portfolio": "",
-      "count": 2
-    },
-    {
-      "name": "Ujjawal Kushwaha",
-      "github": "ironhacked",
-      "portfolio": "",
-      "count": 2
+      "count": 4
     },
     {
       "name": "Ronik",
@@ -77,6 +65,12 @@
       "name": "Harsh Brijesh Dubey",
       "github": "Hxrshthetic",
       "portfolio": "https://www.github.com/Hxrshthetic",
+      "count": 1
+    },
+    {
+      "name": "Avi Jindal",
+      "github": "jindalavi97-sudo",
+      "portfolio": "",
       "count": 1
     },
     {
