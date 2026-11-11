@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T20:03:02.642Z",
+  "updatedAt": "2026-11-11T00:35:59.803Z",
   "leaderboard": [
     {
       "name": "TaHooR",
@@ -11,7 +11,7 @@
       "name": "Manoj Gurjar",
       "github": "Manojgurjar99",
       "portfolio": "",
-      "count": 14
+      "count": 13
     },
     {
       "name": "Lucky Kumari",
@@ -23,13 +23,7 @@
       "name": "Sayan Nandi",
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 9
-    },
-    {
-      "name": "Ansik Singh Tomar",
-      "github": "aanshik-dev",
-      "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 7
+      "count": 8
     },
     {
       "name": "Ronik",
@@ -38,14 +32,14 @@
       "count": 6
     },
     {
-      "name": "ABHIJEET MISHRA",
-      "github": "amabhijeet",
-      "portfolio": "",
+      "name": "Ansik Singh Tomar",
+      "github": "aanshik-dev",
+      "portfolio": "https://aanshik-dev.vercel.app/",
       "count": 6
     },
     {
-      "name": "Saksham Gupta",
-      "github": "AccidentalGenius08",
+      "name": "ABHIJEET MISHRA",
+      "github": "amabhijeet",
       "portfolio": "",
       "count": 6
     },
@@ -59,7 +53,13 @@
       "name": "Ritesh Ritu Raj",
       "github": "riteshrituraj928-pixel",
       "portfolio": "",
-      "count": 5
+      "count": 4
+    },
+    {
+      "name": "Saksham Gupta",
+      "github": "AccidentalGenius08",
+      "portfolio": "",
+      "count": 3
     },
     {
       "name": "Divyam Raj",
