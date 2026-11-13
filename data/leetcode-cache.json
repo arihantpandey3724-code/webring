@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T03:39:25.090Z",
+  "updatedAt": "2026-11-13T11:34:09.741Z",
   "leaderboard": [
     {
       "name": "TaHooR",
@@ -41,7 +41,7 @@
       "name": "Manoj Gurjar",
       "github": "Manojgurjar99",
       "portfolio": "",
-      "count": 5
+      "count": 6
     },
     {
       "name": "Pratham Gupta",
@@ -65,6 +65,12 @@
       "name": "Devesh Srivastava",
       "github": "IntrovertSpecialist",
       "portfolio": "https://github.com/IntrovertSpecialist",
+      "count": 1
+    },
+    {
+      "name": "Abhay Gupta",
+      "github": "abhaygupta-eng",
+      "portfolio": "https://abhaygupta-eng/my-portfolio",
       "count": 1
     }
   ]
