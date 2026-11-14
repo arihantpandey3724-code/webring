@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T23:55:10.365Z",
+  "updatedAt": "2026-11-14T04:44:31.522Z",
   "leaderboard": [
     {
       "name": "TaHooR",
@@ -17,24 +17,12 @@
       "name": "Sayan Nandi",
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 9
+      "count": 8
     },
     {
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 7
-    },
-    {
-      "name": "Ronik",
-      "github": "R1ftzy",
-      "portfolio": "https://r1ftzy.github.io/",
-      "count": 6
-    },
-    {
-      "name": "ABHIJEET MISHRA",
-      "github": "amabhijeet",
-      "portfolio": "",
       "count": 6
     },
     {
@@ -44,10 +32,16 @@
       "count": 6
     },
     {
-      "name": "Pratham Gupta",
-      "github": "Pratham-gupta610",
+      "name": "Ronik",
+      "github": "R1ftzy",
+      "portfolio": "https://r1ftzy.github.io/",
+      "count": 5
+    },
+    {
+      "name": "ABHIJEET MISHRA",
+      "github": "amabhijeet",
       "portfolio": "",
-      "count": 4
+      "count": 5
     },
     {
       "name": "Ritesh Ritu Raj",
@@ -56,15 +50,15 @@
       "count": 3
     },
     {
+      "name": "Pratham Gupta",
+      "github": "Pratham-gupta610",
+      "portfolio": "",
+      "count": 2
+    },
+    {
       "name": "Divyam Raj",
       "github": "CodeMasala5K",
       "portfolio": "",
-      "count": 1
-    },
-    {
-      "name": "Devesh Srivastava",
-      "github": "IntrovertSpecialist",
-      "portfolio": "https://github.com/IntrovertSpecialist",
       "count": 1
     },
     {
