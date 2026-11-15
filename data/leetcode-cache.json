@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T21:36:26.465Z",
+  "updatedAt": "2026-11-15T01:18:52.130Z",
   "leaderboard": [
     {
       "name": "TaHooR",
@@ -8,22 +8,22 @@
       "count": 20
     },
     {
-      "name": "Lucky Kumari",
-      "github": "lucky-carat",
-      "portfolio": "",
-      "count": 9
-    },
-    {
       "name": "Sayan Nandi",
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 9
+      "count": 8
+    },
+    {
+      "name": "Lucky Kumari",
+      "github": "lucky-carat",
+      "portfolio": "",
+      "count": 6
     },
     {
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 7
+      "count": 6
     },
     {
       "name": "Manoj Gurjar",
@@ -47,19 +47,19 @@
       "name": "Pratham Gupta",
       "github": "Pratham-gupta610",
       "portfolio": "",
-      "count": 3
-    },
-    {
-      "name": "Ritesh Ritu Raj",
-      "github": "riteshrituraj928-pixel",
-      "portfolio": "",
-      "count": 3
+      "count": 2
     },
     {
       "name": "Divyam Raj",
       "github": "CodeMasala5K",
       "portfolio": "",
       "count": 2
+    },
+    {
+      "name": "Ritesh Ritu Raj",
+      "github": "riteshrituraj928-pixel",
+      "portfolio": "",
+      "count": 1
     },
     {
       "name": "Arush Pareek",
