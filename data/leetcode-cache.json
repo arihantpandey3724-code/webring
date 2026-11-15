@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T15:25:17.356Z",
+  "updatedAt": "2026-11-15T20:28:21.095Z",
   "leaderboard": [
     {
       "name": "TaHooR",
@@ -12,6 +12,12 @@
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
       "count": 9
+    },
+    {
+      "name": "Saksham Gupta",
+      "github": "AccidentalGenius08",
+      "portfolio": "",
+      "count": 7
     },
     {
       "name": "Lucky Kumari",
@@ -50,16 +56,16 @@
       "count": 2
     },
     {
-      "name": "Divyam Raj",
-      "github": "CodeMasala5K",
+      "name": "Ritesh Ritu Raj",
+      "github": "riteshrituraj928-pixel",
       "portfolio": "",
       "count": 2
     },
     {
-      "name": "Ritesh Ritu Raj",
-      "github": "riteshrituraj928-pixel",
+      "name": "Divyam Raj",
+      "github": "CodeMasala5K",
       "portfolio": "",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Arush Pareek",
