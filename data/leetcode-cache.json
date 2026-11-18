@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-18T06:29:25.876Z",
+  "updatedAt": "2026-11-18T15:56:00.032Z",
   "leaderboard": [
     {
       "name": "TaHooR",
       "github": "TaH00R",
       "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 10
+      "count": 11
     },
     {
       "name": "Sayan Nandi",
@@ -20,22 +20,22 @@
       "count": 7
     },
     {
-      "name": "Lucky Kumari",
-      "github": "lucky-carat",
-      "portfolio": "",
-      "count": 4
-    },
-    {
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 4
+      "count": 5
     },
     {
       "name": "Arush Pareek",
       "github": "Arushpareek1",
       "portfolio": "",
-      "count": 3
+      "count": 5
+    },
+    {
+      "name": "Lucky Kumari",
+      "github": "lucky-carat",
+      "portfolio": "",
+      "count": 4
     },
     {
       "name": "Pratham Gupta",
