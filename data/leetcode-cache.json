@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T03:53:32.913Z",
+  "updatedAt": "2026-11-19T12:20:58.175Z",
   "leaderboard": [
     {
       "name": "TaHooR",
@@ -20,16 +20,16 @@
       "count": 7
     },
     {
+      "name": "Ansik Singh Tomar",
+      "github": "aanshik-dev",
+      "portfolio": "https://aanshik-dev.vercel.app/",
+      "count": 5
+    },
+    {
       "name": "Arush Pareek",
       "github": "Arushpareek1",
       "portfolio": "",
       "count": 5
-    },
-    {
-      "name": "Ansik Singh Tomar",
-      "github": "aanshik-dev",
-      "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 4
     },
     {
       "name": "Pratham Gupta",
