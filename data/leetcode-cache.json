@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-19T12:20:58.175Z",
+  "updatedAt": "2026-11-19T20:50:06.687Z",
   "leaderboard": [
-    {
-      "name": "TaHooR",
-      "github": "TaH00R",
-      "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 7
-    },
     {
       "name": "Sayan Nandi",
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
+      "count": 8
+    },
+    {
+      "name": "TaHooR",
+      "github": "TaH00R",
+      "portfolio": "https://tah00r.github.io/portfolio/",
       "count": 7
     },
     {
@@ -47,6 +47,12 @@
       "name": "Divyam Raj",
       "github": "CodeMasala5K",
       "portfolio": "",
+      "count": 1
+    },
+    {
+      "name": "Devesh Srivastava",
+      "github": "IntrovertSpecialist",
+      "portfolio": "https://github.com/IntrovertSpecialist",
       "count": 1
     },
     {
