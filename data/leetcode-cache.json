@@ -1,16 +1,10 @@
 {
-  "updatedAt": "2026-11-19T20:50:06.687Z",
+  "updatedAt": "2026-11-20T01:55:36.626Z",
   "leaderboard": [
     {
       "name": "Sayan Nandi",
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 8
-    },
-    {
-      "name": "TaHooR",
-      "github": "TaH00R",
-      "portfolio": "https://tah00r.github.io/portfolio/",
       "count": 7
     },
     {
@@ -20,16 +14,22 @@
       "count": 7
     },
     {
-      "name": "Ansik Singh Tomar",
-      "github": "aanshik-dev",
-      "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 5
+      "name": "TaHooR",
+      "github": "TaH00R",
+      "portfolio": "https://tah00r.github.io/portfolio/",
+      "count": 6
     },
     {
       "name": "Arush Pareek",
       "github": "Arushpareek1",
       "portfolio": "",
       "count": 5
+    },
+    {
+      "name": "Ansik Singh Tomar",
+      "github": "aanshik-dev",
+      "portfolio": "https://aanshik-dev.vercel.app/",
+      "count": 4
     },
     {
       "name": "Pratham Gupta",
@@ -53,18 +53,6 @@
       "name": "Devesh Srivastava",
       "github": "IntrovertSpecialist",
       "portfolio": "https://github.com/IntrovertSpecialist",
-      "count": 1
-    },
-    {
-      "name": "Manoj Gurjar",
-      "github": "Manojgurjar99",
-      "portfolio": "",
-      "count": 1
-    },
-    {
-      "name": "Abhay Gupta",
-      "github": "abhaygupta-eng",
-      "portfolio": "https://abhaygupta-eng/my-portfolio",
       "count": 1
     }
   ]
