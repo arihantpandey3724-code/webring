@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T18:00:33.227Z",
+  "updatedAt": "2026-11-20T23:55:56.374Z",
   "leaderboard": [
     {
       "name": "Sayan Nandi",
@@ -32,6 +32,12 @@
       "count": 5
     },
     {
+      "name": "Divyam Raj",
+      "github": "CodeMasala5K",
+      "portfolio": "",
+      "count": 2
+    },
+    {
       "name": "Pratham Gupta",
       "github": "Pratham-gupta610",
       "portfolio": "",
@@ -40,12 +46,6 @@
     {
       "name": "Ritesh Ritu Raj",
       "github": "riteshrituraj928-pixel",
-      "portfolio": "",
-      "count": 1
-    },
-    {
-      "name": "Divyam Raj",
-      "github": "CodeMasala5K",
       "portfolio": "",
       "count": 1
     },
