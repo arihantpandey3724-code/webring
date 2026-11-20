@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-20T09:38:34.373Z",
+  "updatedAt": "2026-11-20T18:00:33.227Z",
   "leaderboard": [
     {
       "name": "Sayan Nandi",
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 7
+      "count": 8
     },
     {
       "name": "Saksham Gupta",
@@ -20,16 +20,16 @@
       "count": 6
     },
     {
+      "name": "Ansik Singh Tomar",
+      "github": "aanshik-dev",
+      "portfolio": "https://aanshik-dev.vercel.app/",
+      "count": 5
+    },
+    {
       "name": "Arush Pareek",
       "github": "Arushpareek1",
       "portfolio": "",
       "count": 5
-    },
-    {
-      "name": "Ansik Singh Tomar",
-      "github": "aanshik-dev",
-      "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 4
     },
     {
       "name": "Pratham Gupta",
