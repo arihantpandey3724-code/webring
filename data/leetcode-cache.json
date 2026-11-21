@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-21T13:43:19.159Z",
+  "updatedAt": "2026-11-21T20:15:32.345Z",
   "leaderboard": [
     {
       "name": "Sayan Nandi",
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 7
+      "count": 8
     },
     {
       "name": "Saksham Gupta",
@@ -26,16 +26,16 @@
       "count": 5
     },
     {
-      "name": "Arush Pareek",
-      "github": "Arushpareek1",
+      "name": "Ritesh Ritu Raj",
+      "github": "riteshrituraj928-pixel",
       "portfolio": "",
       "count": 4
     },
     {
-      "name": "Ritesh Ritu Raj",
-      "github": "riteshrituraj928-pixel",
+      "name": "Arush Pareek",
+      "github": "Arushpareek1",
       "portfolio": "",
-      "count": 1
+      "count": 4
     },
     {
       "name": "Divyam Raj",
