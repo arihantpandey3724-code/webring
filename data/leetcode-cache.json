@@ -1,23 +1,11 @@
 {
-  "updatedAt": "2026-11-21T20:15:32.345Z",
+  "updatedAt": "2026-11-22T00:23:43.892Z",
   "leaderboard": [
     {
       "name": "Sayan Nandi",
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 8
-    },
-    {
-      "name": "Saksham Gupta",
-      "github": "AccidentalGenius08",
-      "portfolio": "",
       "count": 7
-    },
-    {
-      "name": "TaHooR",
-      "github": "TaH00R",
-      "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 5
     },
     {
       "name": "Ansik Singh Tomar",
@@ -26,9 +14,9 @@
       "count": 5
     },
     {
-      "name": "Ritesh Ritu Raj",
-      "github": "riteshrituraj928-pixel",
-      "portfolio": "",
+      "name": "TaHooR",
+      "github": "TaH00R",
+      "portfolio": "https://tah00r.github.io/portfolio/",
       "count": 4
     },
     {
@@ -36,6 +24,12 @@
       "github": "Arushpareek1",
       "portfolio": "",
       "count": 4
+    },
+    {
+      "name": "Ritesh Ritu Raj",
+      "github": "riteshrituraj928-pixel",
+      "portfolio": "",
+      "count": 3
     },
     {
       "name": "Divyam Raj",
