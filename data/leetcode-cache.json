@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-11-23T01:38:18.462Z",
+  "updatedAt": "2026-11-23T09:45:49.749Z",
   "leaderboard": [
+    {
+      "name": "Ritesh Ritu Raj",
+      "github": "riteshrituraj928-pixel",
+      "portfolio": "",
+      "count": 8
+    },
     {
       "name": "Sayan Nandi",
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 7
+      "count": 8
     },
     {
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 6
-    },
-    {
-      "name": "Ritesh Ritu Raj",
-      "github": "riteshrituraj928-pixel",
-      "portfolio": "",
       "count": 6
     },
     {
