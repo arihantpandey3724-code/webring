@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T20:16:00.602Z",
+  "updatedAt": "2026-11-27T02:55:56.665Z",
   "leaderboard": [
     {
       "name": "Ritesh Ritu Raj",
@@ -17,13 +17,13 @@
       "name": "Sayan Nandi",
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 7
+      "count": 6
     },
     {
       "name": "Ansik Singh Tomar",
       "github": "aanshik-dev",
       "portfolio": "https://aanshik-dev.vercel.app/",
-      "count": 6
+      "count": 5
     },
     {
       "name": "Robin Nair",
@@ -58,12 +58,6 @@
     {
       "name": "Pratham Gupta",
       "github": "Pratham-gupta610",
-      "portfolio": "",
-      "count": 1
-    },
-    {
-      "name": "Divyam Raj",
-      "github": "CodeMasala5K",
       "portfolio": "",
       "count": 1
     }
