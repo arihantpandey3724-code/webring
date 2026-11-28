@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-11-28T02:49:42.039Z",
+  "updatedAt": "2026-11-28T10:57:15.965Z",
   "leaderboard": [
+    {
+      "name": "ABHIJEET MISHRA",
+      "github": "amabhijeet",
+      "portfolio": "",
+      "count": 18
+    },
     {
       "name": "Ritesh Ritu Raj",
       "github": "riteshrituraj928-pixel",
@@ -8,22 +14,16 @@
       "count": 18
     },
     {
-      "name": "ABHIJEET MISHRA",
-      "github": "amabhijeet",
-      "portfolio": "",
-      "count": 13
-    },
-    {
       "name": "Sayan Nandi",
       "github": "SayanNnd",
       "portfolio": "https://sayannnd.github.io/About-Me/",
-      "count": 6
+      "count": 7
     },
     {
       "name": "TaHooR",
       "github": "TaH00R",
       "portfolio": "https://tah00r.github.io/portfolio/",
-      "count": 5
+      "count": 6
     },
     {
       "name": "Ansik Singh Tomar",
